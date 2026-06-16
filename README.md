@@ -85,7 +85,7 @@ Mesmo com escopo configurado, modelos de IA podem **cometer erros ou inventar re
 - [Documentação oficial n8n — AI Agents](https://docs.n8n.io/advanced-ai/)
 - [O que são agentes de IA — n8n](https://docs.n8n.io/advanced-ai/examples/ai-agent/)
 - [LGPD — Lei nº 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
-
+_ [alura-imersao] (https://www.alura.com.br)
 -----
 
 ## 👩‍💻 Autora
