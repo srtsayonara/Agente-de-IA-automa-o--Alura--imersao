@@ -76,7 +76,8 @@ Mesmo com escopo configurado, modelos de IA podem **cometer erros ou inventar re
 
 > Print do agente funcionando ao final da configuração.
 
-*(imagem a ser adicionada)*
+*<img width="1366" height="768" alt="funcionandon8n" src="https://github.com/user-attachments/assets/a8cafce2-d15c-4722-98dd-a893339aaa2c" />
+*
 
 -----
 
